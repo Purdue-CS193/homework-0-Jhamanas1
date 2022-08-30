@@ -13,10 +13,12 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### Things I liked in CS193
 
-- Bulleted
-- List
+- 'Stand Still' game in the 2nd week.
+- Learning about Terminal.
+- Nice Instructors.
+- A class worth taking part in. 
 
 1. Numbered
 2. List
