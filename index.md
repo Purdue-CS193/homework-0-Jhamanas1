@@ -13,6 +13,8 @@ Syntax highlighted code block
 
 # Manas Jha's First CS193 Homework
 ## Header 2
+
+
 ### Things I liked in CS193
 
 - 'Stand Still' game in the 2nd week.
